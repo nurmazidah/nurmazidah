@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurmazidah" alt="nurmazidah" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Python, C, Digital System, and Computer Technologi.**
+- 🌱 I’m currently learning **C++, Python, C, Digital System, and Computer Technology.**
 
 - 👯 I’m looking to collaborate on **Simple programming projects or study group**
 
