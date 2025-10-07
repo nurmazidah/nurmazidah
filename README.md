@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **C++, Python, C, Digital System, and Computer Technology.**
 
-- 👯 I’m looking to collaborate on **Simple programming projects or study group**
+- 👯 I’m looking to collaborate on **Simple programming projects or study group.**
 
-- 🤝 I’m looking for help with **Understanding algorithms and microcontroller projects**
+- 🤝 I’m looking for help with **Understanding algorithms and microcontroller projects.**
 
 - 💬 Ask me about **Basic Programming.**
 
 - 📫 How to reach me **nurmazieeda@gmail.com**
 
-- ⚡ Fun fact **I can focus for hours when coding, but forget time easily and im a tomatomaniac🧟‍♀️**
+- ⚡ Fun fact **I can focus for hours when coding, but forget time easily and im a tomatomaniac🧟‍♀️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
